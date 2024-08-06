@@ -33,7 +33,7 @@ const config = {
         primary: '#1c1c22',
         accent: {
           DEFAULT: '#7C00FE',
-          hover: '#00e187',
+          hover: '#5600b2',
         }
       },
 
