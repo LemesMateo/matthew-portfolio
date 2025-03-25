@@ -34,6 +34,7 @@ const config = {
         accent: {
           DEFAULT: '#7C00FE',
           hover: '#5600b2',
+          lighter: '#9a39ff',
         }
       },
 
