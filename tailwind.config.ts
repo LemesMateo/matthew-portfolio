@@ -30,11 +30,11 @@ const config = {
     },
     extend: {
       colors: {
-        primary: '#1c1c22',
+        primary: '#A39F9F',
         accent: {
-          DEFAULT: '#7C00FE',
-          hover: '#5600b2',
-          lighter: '#9a39ff',
+          DEFAULT: '#5d17eb',
+          hover: '#652ce7',
+          lighter: '#5d17eb',
         }
       },
 

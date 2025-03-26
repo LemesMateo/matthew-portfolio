@@ -8,6 +8,7 @@ import {
   FaFigma,
   FaNodeJs,
   FaVuejs,
+  FaDocker,
 } from 'react-icons/fa'
 
 import {
@@ -124,12 +125,12 @@ const skills = {
       name: 'html 5',
     },
     {
-      icon: <FaCss3/>,
-      name: 'css 3',
+      icon: <FaJs/>,
+      name: 'javascript',
     },
     {
-      icon: <FaJs />,
-      name: 'javascript',
+      icon: <FaNodeJs/>,
+      name: 'node.js',
     },
     {
       icon: <FaReact/>,
@@ -144,12 +145,16 @@ const skills = {
       name: 'next.js',
     },
     {
-      icon: <FaNodeJs/>,
-      name: 'node.js',
+      icon: <FaCss3/>,
+      name: 'css 3',
     },
     {
       icon: <SiTailwindcss/>,
       name: 'tailwind.css',
+    },
+    {
+      icon: <FaFigma/>,
+      name: 'figma',
     },
     {
       icon: <SiCsharp/>,
@@ -160,8 +165,16 @@ const skills = {
       name: '.Net',
     },
     {
-      icon: <FaFigma/>,
-      name: 'figma',
+      icon: <FaDocker />,
+      name: 'docker',
+    },
+    {
+      icon: <SiMicrosoftsqlserver/>,
+      name: 'sql server',
+    },
+    {
+      icon: <SiApachecassandra/>,
+      name: 'Apache Cassandra',
     },
     {
       icon: <SiFirebase/>,
@@ -174,14 +187,6 @@ const skills = {
     {
       icon: <SiMysql/>,
       name: 'mysql',
-    },
-    {
-      icon: <SiMicrosoftsqlserver/>,
-      name: 'sql server',
-    },
-    {
-      icon: <SiApachecassandra/>,
-      name: 'Apache Cassandra',
     },
     
   ]
